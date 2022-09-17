@@ -1,0 +1,86 @@
+
+  nav{
+    height: 80px;
+    background-color: darkblue;
+    position: fixed;
+  }
+   li {
+    font-size: 20px;
+    line-height: 10px;
+   }
+  
+ 
+  
+  
+ 
+  #logo-img {
+    background: url('') no-repeat;
+    width: 150px;
+    height: 150px;
+    margin: 10px 15px 10px 0;
+  }
+  .login-form{
+    width: 30%;
+    top: 27%;
+    left: 35%;
+    position: absolute;
+  }
+  .login-form h1{
+    text-align: center;
+  }
+  .login-form label {
+    font-size: 25px;
+    font-weight: 25px;
+    width: 100%;
+    border: 0px;
+    outline: none;
+  }
+  .login-form input {
+   margin-top: 10px;
+  }
+  .login-form button {
+  margin-top: 20px;
+  margin-left: 33%;
+  width: 100px;
+  height: 40px;
+  font-size: 20px;
+  cursor: pointer;
+  text-transform: uppercase;
+  }
+  .login-form p {
+    margin-top: 10px;
+    font-size: 20px;
+    text-align: center;
+    }
+  table{
+    background-color: white;
+    font-size: 20px;
+    margin: auto;
+  }
+  #tablesize{
+    top: 20%;
+    max-width: 80%;
+    margin-left: 10%;
+
+    position: absolute;
+  }
+ td{
+      height: 25px;
+      text-align: center;
+  }
+tr th{
+    height: 25px;
+    text-align: center;
+}
+  
+  body{
+    background: url('/public/bgpic5.jpg') no-repeat;
+    background-size: cover;
+  
+  }
+  
+  
+  
+  
+  
+  
